@@ -11,3 +11,7 @@ Data Driven Supply Chain Management Times and Cost for Competitive Advantage (DD
 Informasi mengenai dokumen lengkap seperti dataset, model, serta keseluruhan struktur proyek dapat diakses pada tautan berikut [https://drive.google.com/drive/folders/1jfjYKTKn16G3TCbtpJgqs9FlFGuVdobu?usp=drive_link]
 
 ### Tampilan 
+![image](imagesR/projek1.png)
+![image](imagesR/projek2.png)
+![image](imagesR/projek3.png)
+![image](imagesR/projek4.png)
